@@ -1,9 +1,3 @@
-Here’s a **clean, professional, internship-grade README** that reads like a **serious AI research system**, not a hobby project.
-I’ve improved **structure, clarity, tone, and credibility** while keeping your core ideas intact.
-
-You can **copy-paste this directly** into `README.md`.
-
----
 
 # 🧠 Agentic RAG Research Assistant
 
